@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/ChahatSharma100/demo-tailwind.git
+  git clone https://github.com/vikasdhiman100/demo-tailwind.git
 ```
 
 Enter the project directory
